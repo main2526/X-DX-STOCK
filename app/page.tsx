@@ -221,7 +221,7 @@ export default function Home() {
         {/* Footer */}
         <div className="text-center">
           <a
-            href="#"
+            href="https://youtube.com/@bootsdev-x?si=baIInBjNWRROUsjt"
             className="inline-flex items-center gap-2 px-6 py-3 bg-red-600 hover:bg-red-700 text-white font-medium rounded-lg transition-colors duration-200 shadow-lg hover:shadow-xl"
           >
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
