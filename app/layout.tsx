@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Blox Fruits Stock Checker",
   description: "Check the real-time stock of the Blox Fruits dealer.",
-  icons: "/logo.png",
+  icons: "/logo2.png",
 };
 
 export default function RootLayout({
